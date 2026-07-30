@@ -1,2 +1,2 @@
 # Medical-chatbot
-Use this chatbot to treat yourself when a doctor is not available at the moment !
+Use this medical chatbot to treat yourself, if you can't reach a doctor at the moment !
